@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\marve\YandexDisk\Autodesk_ITMO_2021\Revit API\Training\RevitAPITrainingPipeDiameterParam.dll"</Assembly>
+		<AddInId>FD81F901-049F-4E5D-AA15-42438B84F177</AddInId>
+		<FullClassName>RevitAPITrainingPipeDiameterParam.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Заполнение данных с диаметром</Text>
+	</AddIn>
+</RevitAddIns>

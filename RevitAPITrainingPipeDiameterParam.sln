@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPITrainingPipeDiameterParam", "RevitAPITrainingPipeDiameterParam\RevitAPITrainingPipeDiameterParam.csproj", "{61FF247D-5FFC-4281-BDD1-F1276A836ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61FF247D-5FFC-4281-BDD1-F1276A836ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FF247D-5FFC-4281-BDD1-F1276A836ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FF247D-5FFC-4281-BDD1-F1276A836ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FF247D-5FFC-4281-BDD1-F1276A836ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA8AFD3-7D38-4ADB-A08C-0D3774986A6B}
+	EndGlobalSection
+EndGlobal
